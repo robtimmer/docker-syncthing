@@ -3,7 +3,7 @@ robtimmer/syncthing
 
 [Syncthing](http://syncthing.net/) Docker image
 
-### 
+
 
     docker run -d \
         --name syncthing \
